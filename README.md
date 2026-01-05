@@ -1,6 +1,8 @@
 # ROS Project
 # Raspberry Pi Zero 2W AI Assistant with GPIO Control
 
+[![Build: Precompiled llama-cpp](https://img.shields.io/badge/Build-Precompiled_llama_for_ARM64-blue)](https://github.com/OldGameRise/ROS-Project/releases/tag/arm64-linux-2025-12-12)
+
 A lightweight AI assistant optimized for Raspberry Pi Zero 2W that can tell time and control GPIO pins. This project uses a quantized language model (SmolLM2-360M) to process natural language commands and perform physical actions like controlling LEDs.
 
 ## Features
@@ -118,8 +120,7 @@ Edit `config.py` to customize:
 
 ### Using the Precompiled Package
 
-If compilation of `llama-cpp-python` fails (common on Raspberry Pi Zero 2W), for now I have compiled llama-cpp (not llama-cpp-python) for Zero 2W to be used. I will compile llama-cpp-python in future.
-
+If compilation of `llama-cpp-python` fails (common on Raspberry Pi Zero 2W), for now I have compiled llama-cpp (not llama-cpp-python) for Zero 2W in [releases](https://github.com/OldGameRise/ROS-Project/releases/tag/arm64-linux-2025-12-12). I will compile llama-cpp-python in future.
 
 ## Performance Notes
 
