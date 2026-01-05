@@ -124,4 +124,5 @@ If compilation of `llama-cpp-python` fails (common on Raspberry Pi Zero 2W), for
 ## Performance Notes
 
 I have tested Qwen1.5-0.5B.i1-IQ1_S.gguf, the iteration speed was about 0.08it/s which is too slow for Raspberry Pi Zero 2 W to handle.
+
 Recommended: Use SmolLM2-360M-Instruct-Q2_K.gguf which is usable speed for Raspberry Pi Zero 2 W to handle.
