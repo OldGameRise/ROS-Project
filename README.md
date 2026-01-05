@@ -44,7 +44,7 @@ A lightweight AI assistant optimized for Raspberry Pi Zero 2W that can tell time
    ```
 
 3. **Download the AI model:**
-   The installation script will automatically download the SmolLM2-360M-Instruct-Q2_K.gguf model.
+   The installation script will automatically download the [SmolLM2-360M-Instruct-Q2_K.gguf](https://huggingface.co/bartowski/SmolLM2-360M-Instruct-GGUF) model.
 
 ## Hardware Setup
 
