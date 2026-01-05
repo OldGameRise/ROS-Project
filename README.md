@@ -33,7 +33,7 @@ A lightweight AI assistant optimized for Raspberry Pi Zero 2W that can tell time
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/raspberry-ai-assistant.git
+   git clone https://github.com/OldGameRise/ROS-Project.git
    cd raspberry-ai-assistant
    ```
 
